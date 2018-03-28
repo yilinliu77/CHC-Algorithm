@@ -1,0 +1,53 @@
+Sun Feb  4 15:56:36 2018
+
+=================Properties================
+Total Meshes:1
+Total Triangles:11611
+Total Nodes for BVHAccel:1
+===========================================
+=================Frame0================
+DrawCalls(/Meshes):2
+=================Frame1================
+DrawCalls(/Meshes):2
+=================Frame2================
+DrawCalls(/Meshes):2
+=================Frame3================
+DrawCalls(/Meshes):2
+=================Frame4================
+DrawCalls(/Meshes):2
+=================Frame5================
+DrawCalls(/Meshes):2
+=================Frame6================
+DrawCalls(/Meshes):2
+=================Frame7================
+DrawCalls(/Meshes):2
+=================Frame8================
+DrawCalls(/Meshes):2
+=================Frame9================
+DrawCalls(/Meshes):2
+=================Frame10================
+DrawCalls(/Meshes):2
+=================Frame11================
+DrawCalls(/Meshes):2
+=================Frame12================
+DrawCalls(/Meshes):2
+=================Frame13================
+DrawCalls(/Meshes):2
+=================Frame14================
+DrawCalls(/Meshes):2
+=================Frame15================
+DrawCalls(/Meshes):2
+=================Frame16================
+DrawCalls(/Meshes):2
+=================Frame17================
+DrawCalls(/Meshes):2
+=================Frame18================
+DrawCalls(/Meshes):2
+=================Frame19================
+DrawCalls(/Meshes):2
+=================Frame20================
+DrawCalls(/Meshes):2
+=================Frame21================
+DrawCalls(/Meshes):2
+=================Frame22================
+DrawCalls(/Meshes):2

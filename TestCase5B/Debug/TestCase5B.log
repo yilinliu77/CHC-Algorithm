@@ -1,0 +1,19 @@
+﻿  main.cpp
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\shader.h(68): warning C4101: “infoLog”: 未引用的局部变量
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\shader.h(67): warning C4101: “success”: 未引用的局部变量
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\mesh.h(116): warning C4305: “初始化”: 从“int”到“float”截断
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\mesh.h(117): warning C4305: “初始化”: 从“int”到“float”截断
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\mesh.h(189): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\bvhaccel.h(134): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\bvhaccel.h(166): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\bvhaccel.h(170): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\main.cpp(520): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\main.cpp(670): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\main.cpp(671): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\main.cpp(675): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\main.cpp(676): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\main.cpp(678): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\main.cpp(679): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5b\main.cpp(687): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  TestCase5B.vcxproj -> G:\myProject\18_SRTP\VR\project\TestCase5-6\Debug\TestCase5B(CHC+).exe

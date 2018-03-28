@@ -1,0 +1,19 @@
+﻿  main.cpp
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\shader.h(68): warning C4101: “infoLog”: 未引用的局部变量
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\shader.h(67): warning C4101: “success”: 未引用的局部变量
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\mesh.h(116): warning C4305: “初始化”: 从“int”到“float”截断
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\mesh.h(117): warning C4305: “初始化”: 从“int”到“float”截断
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\mesh.h(189): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\bvhaccel.h(143): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\bvhaccel.h(176): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\bvhaccel.h(180): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\main.cpp(538): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\main.cpp(685): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\main.cpp(686): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\main.cpp(690): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\main.cpp(691): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\main.cpp(693): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\main.cpp(694): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase5a\main.cpp(702): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  TestCase5A.vcxproj -> G:\myProject\18_SRTP\VR\project\TestCase5-6\Debug\TestCase5A(CHC+Optimize).exe

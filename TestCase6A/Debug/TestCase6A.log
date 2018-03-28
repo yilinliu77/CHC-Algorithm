@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(TestCase5A(CHC+Optimize).vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\shader.h(68): warning C4101: “infoLog”: 未引用的局部变量
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\shader.h(67): warning C4101: “success”: 未引用的局部变量
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\mesh.h(116): warning C4305: “初始化”: 从“int”到“float”截断
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\mesh.h(117): warning C4305: “初始化”: 从“int”到“float”截断
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\mesh.h(189): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\bvhaccel.h(134): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\bvhaccel.h(166): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\bvhaccel.h(170): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\main.cpp(601): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\main.cpp(743): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\main.cpp(744): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\main.cpp(748): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\main.cpp(749): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\main.cpp(751): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\main.cpp(752): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+g:\myproject\18_srtp\vr\project\testcase5-6\testcase6a\main.cpp(760): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  TestCase6A.vcxproj -> G:\myProject\18_SRTP\VR\project\TestCase5-6\Debug\TestCase6A(CHC+Optimize+Instanced).exe
